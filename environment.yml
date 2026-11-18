@@ -1,0 +1,11 @@
+# Python environment used for the analysis and the model (the versions the results were obtained with)
+name: amylose-kink
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.3
+  - scipy=1.16
+  - scikit-learn=1.7
+  - rdkit          # only for xtb/validate_frames.py (2026.03 was used)
+# Other programs: GROMACS 2026.1, xtb 6.7.1, AmberTools with ParmEd

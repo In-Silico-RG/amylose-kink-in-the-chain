@@ -1,0 +1,9 @@
+source leaprc.GLYCAM_06j-1
+source leaprc.water.tip3p
+m = loadpdb sc18_start_vac.pdb
+saveamberparm m sc18_vac.prmtop sc18_vac.inpcrd
+savepdb m sc18_vac.pdb
+solvateBox m TIP3PBOX 12.0 iso
+saveamberparm m sc18.prmtop sc18.inpcrd
+savepdb m sc18.pdb
+quit

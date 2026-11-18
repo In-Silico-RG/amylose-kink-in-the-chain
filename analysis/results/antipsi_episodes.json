@@ -1,0 +1,110 @@
+{
+ "CHARMM36_6": {
+  "episodes": 314,
+  "episodes_terminal": 134,
+  "episodes_internal": 180,
+  "lifetime_mean_ns": 0.5070700636942675,
+  "lifetime_median_ns": 0.02,
+  "lifetime_max_ns": 8.15,
+  "episodes_longer_than_1ns": 55,
+  "p_per_replica": [
+   0.05687174778083869,
+   0.05911641669217427,
+   0.045179063360881545,
+   0.11158045097439037,
+   0.052157943067033974
+  ],
+  "p_mean": 0.06498112437506377,
+  "p_se_replicas": 0.011891613901677553
+ },
+ "CHARMM36_12": {
+  "episodes": 614,
+  "episodes_terminal": 144,
+  "episodes_internal": 470,
+  "lifetime_mean_ns": 0.543029315960912,
+  "lifetime_median_ns": 0.01,
+  "lifetime_max_ns": 8.41,
+  "episodes_longer_than_1ns": 102,
+  "p_per_replica": [
+   0.08179128289321126,
+   0.05096882507350827,
+   0.052267393865190005,
+   0.05827791227240263,
+   0.06595801912606321
+  ],
+  "p_mean": 0.06185268664607507,
+  "p_se_replicas": 0.005645868698997116
+ },
+ "CHARMM36_18": {
+  "episodes": 813,
+  "episodes_terminal": 122,
+  "episodes_internal": 691,
+  "lifetime_mean_ns": 0.6681057810578105,
+  "lifetime_median_ns": 0.01,
+  "lifetime_max_ns": 26.29,
+  "episodes_longer_than_1ns": 134,
+  "p_per_replica": [
+   0.06060005881752762,
+   0.09239753446527064,
+   0.05503640084745254,
+   0.06350492446749131,
+   0.05446022914828619
+  ],
+  "p_mean": 0.06519982954920567,
+  "p_se_replicas": 0.007008495011300277
+ },
+ "GLYCAM06_6": {
+  "episodes": 14,
+  "episodes_terminal": 5,
+  "episodes_internal": 9,
+  "lifetime_mean_ns": 1.1692857142857143,
+  "lifetime_median_ns": 0.01,
+  "lifetime_max_ns": 8.84,
+  "episodes_longer_than_1ns": 3,
+  "p_per_replica": [
+   4.081216202428323e-05,
+   2.0406081012141617e-05,
+   0.02334455667789001,
+   0.00014284256708499134,
+   0.009856137128864401
+  ],
+  "p_mean": 0.006680950923375166,
+  "p_se_replicas": 0.004576891551190305
+ },
+ "GLYCAM06_12": {
+  "episodes": 28,
+  "episodes_terminal": 4,
+  "episodes_internal": 24,
+  "lifetime_mean_ns": 1.5910714285714285,
+  "lifetime_median_ns": 0.01,
+  "lifetime_max_ns": 12.1,
+  "episodes_longer_than_1ns": 8,
+  "p_per_replica": [
+   0.010156663049225032,
+   0.006659802803053492,
+   0.01320829970967712,
+   0.011269722013523666,
+   2.7826474107465842e-05
+  ],
+  "p_mean": 0.008264462809917354,
+  "p_se_replicas": 0.002318088002901689
+ },
+ "GLYCAM06_18": {
+  "episodes": 68,
+  "episodes_terminal": 4,
+  "episodes_internal": 64,
+  "lifetime_mean_ns": 1.0573529411764706,
+  "lifetime_median_ns": 0.01,
+  "lifetime_max_ns": 19.35,
+  "episodes_longer_than_1ns": 10,
+  "p_per_replica": [
+   7.202146239579394e-05,
+   0.010929256918561732,
+   0.013570043873074176,
+   0.0038831571808398903,
+   0.014698380117274947
+  ],
+  "p_mean": 0.008630571910429308,
+  "p_se_replicas": 0.0028485730187032946
+ }
+}

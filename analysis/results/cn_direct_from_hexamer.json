@@ -1,0 +1,802 @@
+{
+ "RT_kJ_mol": 2.52,
+ "t0_ps": 2000.0,
+ "systems": {
+  "GLYCAM06_6": {
+   "linkages": 5,
+   "replicas": 5,
+   "anti": 1637,
+   "total": 245025,
+   "p": 0.006680950923375166,
+   "dG_kJ_mol": 12.604514780057386,
+   "l2_nm2": 0.21789199532588044,
+   "R2_nm2": 3.5089713169712824,
+   "R2_se_between_replicas": 0.04007523030946341,
+   "R2_per_linkage_nm2": 0.7017942633942564,
+   "Cn_measured": 3.220835452650058,
+   "Cn_se_between_replicas": 0.036784490636773214,
+   "distance_mean_nm": 1.8613612237697992,
+   "distance_sd_nm": 0.2104892197179645,
+   "per_replica": [
+    {
+     "tag": "GLY6_r1",
+     "anti": 2,
+     "total": 49005,
+     "percent": 0.004081216202428324,
+     "R2_nm2": 3.595029021740423,
+     "linkages_above_half_percent": []
+    },
+    {
+     "tag": "GLY6_r2",
+     "anti": 1,
+     "total": 49005,
+     "percent": 0.002040608101214162,
+     "R2_nm2": 3.370345157403591,
+     "linkages_above_half_percent": []
+    },
+    {
+     "tag": "GLY6_r3",
+     "anti": 1144,
+     "total": 49005,
+     "percent": 2.334455667789001,
+     "R2_nm2": 3.4926916532626504,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 5,
+       "percent": 11.662075298438934,
+       "episodes": 3,
+       "longest_ns": 8.84
+      }
+     ]
+    },
+    {
+     "tag": "GLY6_r4",
+     "anti": 7,
+     "total": 49005,
+     "percent": 0.014284256708499133,
+     "R2_nm2": 3.5055649528922213,
+     "linkages_above_half_percent": []
+    },
+    {
+     "tag": "GLY6_r5",
+     "anti": 483,
+     "total": 49005,
+     "percent": 0.9856137128864401,
+     "R2_nm2": 3.5812257995575263,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 3,
+       "percent": 4.91786552392613,
+       "episodes": 1,
+       "longest_ns": 4.82
+      }
+     ]
+    }
+   ]
+  },
+  "GLYCAM06_12": {
+   "linkages": 11,
+   "replicas": 5,
+   "anti": 4455,
+   "total": 539055,
+   "p": 0.008264462809917356,
+   "dG_kJ_mol": 12.064479191810756,
+   "l2_nm2": 0.2177270309208866,
+   "R2_nm2": 14.713092913912927,
+   "R2_se_between_replicas": 0.24571699704164682,
+   "R2_per_linkage_nm2": 1.3375539012648117,
+   "Cn_measured": 6.143260648930751,
+   "Cn_se_between_replicas": 0.10259593734176536,
+   "distance_mean_nm": 3.786263690869424,
+   "distance_sd_nm": 0.6142476512912178,
+   "per_replica": [
+    {
+     "tag": "GLY12_r1",
+     "anti": 1095,
+     "total": 107811,
+     "percent": 1.0156663049225032,
+     "R2_nm2": 14.498275363036596,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 2,
+       "percent": 1.0407101316192224,
+       "episodes": 1,
+       "longest_ns": 1.02
+      },
+      {
+       "linkage": 8,
+       "percent": 10.121416182022243,
+       "episodes": 3,
+       "longest_ns": 9.65
+      }
+     ]
+    },
+    {
+     "tag": "GLY12_r2",
+     "anti": 718,
+     "total": 107811,
+     "percent": 0.6659802803053492,
+     "R2_nm2": 15.183498107253826,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 2.1222324252627285,
+       "episodes": 1,
+       "longest_ns": 2.08
+      },
+      {
+       "linkage": 7,
+       "percent": 5.142332415059688,
+       "episodes": 2,
+       "longest_ns": 5.03
+      }
+     ]
+    },
+    {
+     "tag": "GLY12_r3",
+     "anti": 1424,
+     "total": 107811,
+     "percent": 1.320829970967712,
+     "R2_nm2": 14.759050181653043,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 8,
+       "percent": 2.77522701765126,
+       "episodes": 1,
+       "longest_ns": 2.72
+      },
+      {
+       "linkage": 9,
+       "percent": 11.702887460463218,
+       "episodes": 3,
+       "longest_ns": 6.9
+      }
+     ]
+    },
+    {
+     "tag": "GLY12_r4",
+     "anti": 1215,
+     "total": 107811,
+     "percent": 1.1269722013523666,
+     "R2_nm2": 13.89428883915348,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 5,
+       "percent": 12.355882052851749,
+       "episodes": 2,
+       "longest_ns": 12.1
+      }
+     ]
+    },
+    {
+     "tag": "GLY12_r5",
+     "anti": 3,
+     "total": 107811,
+     "percent": 0.0027826474107465844,
+     "R2_nm2": 15.23035207846769,
+     "linkages_above_half_percent": []
+    }
+   ]
+  },
+  "CHARMM36_6": {
+   "linkages": 5,
+   "replicas": 5,
+   "anti": 15922,
+   "total": 245025,
+   "p": 0.06498112437506377,
+   "dG_kJ_mol": 6.719504106232995,
+   "l2_nm2": 0.2042610637444863,
+   "R2_nm2": 2.9449318491952234,
+   "R2_se_between_replicas": 0.008072711077214285,
+   "R2_per_linkage_nm2": 0.5889863698390447,
+   "Cn_measured": 2.8834980051597987,
+   "Cn_se_between_replicas": 0.007904307291097416,
+   "distance_mean_nm": 1.697903435883059,
+   "distance_sd_nm": 0.24910995887705187,
+   "per_replica": [
+    {
+     "tag": "SC6_r2",
+     "anti": 2787,
+     "total": 49005,
+     "percent": 5.687174778083869,
+     "R2_nm2": 2.960940108272668,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 5.356596265687175,
+       "episodes": 13,
+       "longest_ns": 3.18
+      },
+      {
+       "linkage": 2,
+       "percent": 3.928170594837262,
+       "episodes": 12,
+       "longest_ns": 2.05
+      },
+      {
+       "linkage": 3,
+       "percent": 9.08070605040302,
+       "episodes": 17,
+       "longest_ns": 3.18
+      },
+      {
+       "linkage": 4,
+       "percent": 4.071013161922253,
+       "episodes": 15,
+       "longest_ns": 3.2800000000000002
+      },
+      {
+       "linkage": 5,
+       "percent": 5.9993878175696365,
+       "episodes": 15,
+       "longest_ns": 1.6500000000000001
+      }
+     ]
+    },
+    {
+     "tag": "SC6_r4",
+     "anti": 2897,
+     "total": 49005,
+     "percent": 5.911641669217427,
+     "R2_nm2": 2.9638546300432225,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 9.917355371900827,
+       "episodes": 20,
+       "longest_ns": 2.1
+      },
+      {
+       "linkage": 2,
+       "percent": 2.14263850627487,
+       "episodes": 8,
+       "longest_ns": 0.96
+      },
+      {
+       "linkage": 3,
+       "percent": 9.93776145291297,
+       "episodes": 19,
+       "longest_ns": 2.79
+      },
+      {
+       "linkage": 4,
+       "percent": 2.152841546780941,
+       "episodes": 7,
+       "longest_ns": 2.04
+      },
+      {
+       "linkage": 5,
+       "percent": 5.407611468217529,
+       "episodes": 15,
+       "longest_ns": 2.37
+      }
+     ]
+    },
+    {
+     "tag": "SC6_r6",
+     "anti": 2214,
+     "total": 49005,
+     "percent": 4.517906336088155,
+     "R2_nm2": 2.9470068246091254,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 2.734414855626977,
+       "episodes": 10,
+       "longest_ns": 1.04
+      },
+      {
+       "linkage": 2,
+       "percent": 3.581267217630854,
+       "episodes": 10,
+       "longest_ns": 2.54
+      },
+      {
+       "linkage": 3,
+       "percent": 4.234261810019386,
+       "episodes": 8,
+       "longest_ns": 2.45
+      },
+      {
+       "linkage": 4,
+       "percent": 8.376696255484134,
+       "episodes": 15,
+       "longest_ns": 3.27
+      },
+      {
+       "linkage": 5,
+       "percent": 3.66289154167942,
+       "episodes": 11,
+       "longest_ns": 1.44
+      }
+     ]
+    },
+    {
+     "tag": "SC6_r8",
+     "anti": 5468,
+     "total": 49005,
+     "percent": 11.158045097439038,
+     "R2_nm2": 2.926361090528311,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 12.87623711866136,
+       "episodes": 17,
+       "longest_ns": 6.07
+      },
+      {
+       "linkage": 2,
+       "percent": 19.14090398938884,
+       "episodes": 10,
+       "longest_ns": 7.3100000000000005
+      },
+      {
+       "linkage": 3,
+       "percent": 14.22303846546271,
+       "episodes": 11,
+       "longest_ns": 8.15
+      },
+      {
+       "linkage": 4,
+       "percent": 4.356698296092235,
+       "episodes": 7,
+       "longest_ns": 3.0300000000000002
+      },
+      {
+       "linkage": 5,
+       "percent": 5.1933476175900415,
+       "episodes": 9,
+       "longest_ns": 2.19
+      }
+     ]
+    },
+    {
+     "tag": "SC6_r10",
+     "anti": 2556,
+     "total": 49005,
+     "percent": 5.215794306703398,
+     "R2_nm2": 2.926496592522788,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 3.887358432812978,
+       "episodes": 15,
+       "longest_ns": 2.06
+      },
+      {
+       "linkage": 2,
+       "percent": 9.407203346597285,
+       "episodes": 12,
+       "longest_ns": 3.36
+      },
+      {
+       "linkage": 3,
+       "percent": 6.744209774512805,
+       "episodes": 15,
+       "longest_ns": 1.74
+      },
+      {
+       "linkage": 4,
+       "percent": 3.7037037037037033,
+       "episodes": 14,
+       "longest_ns": 1.8800000000000001
+      },
+      {
+       "linkage": 5,
+       "percent": 2.336496275890215,
+       "episodes": 9,
+       "longest_ns": 0.91
+      }
+     ]
+    }
+   ]
+  },
+  "CHARMM36_12": {
+   "linkages": 11,
+   "replicas": 5,
+   "anti": 33342,
+   "total": 539055,
+   "p": 0.06185268664607507,
+   "dG_kJ_mol": 6.852261656949797,
+   "l2_nm2": 0.20394736912182468,
+   "R2_nm2": 9.501178134176767,
+   "R2_se_between_replicas": 0.24016279491917694,
+   "R2_per_linkage_nm2": 0.8637434667433425,
+   "Cn_measured": 4.235129241737849,
+   "Cn_se_between_replicas": 0.1070520372500968,
+   "distance_mean_nm": 2.986619352928436,
+   "distance_sd_nm": 0.7624191595769999,
+   "per_replica": [
+    {
+     "tag": "SC12_r2",
+     "anti": 8818,
+     "total": 107811,
+     "percent": 8.179128289321126,
+     "R2_nm2": 9.18801771438716,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 3.0609121518212428,
+       "episodes": 8,
+       "longest_ns": 1.6
+      },
+      {
+       "linkage": 2,
+       "percent": 2.6221814100601977,
+       "episodes": 16,
+       "longest_ns": 1.28
+      },
+      {
+       "linkage": 3,
+       "percent": 24.772982348739923,
+       "episodes": 12,
+       "longest_ns": 6.98
+      },
+      {
+       "linkage": 4,
+       "percent": 5.040302009998979,
+       "episodes": 11,
+       "longest_ns": 1.8800000000000001
+      },
+      {
+       "linkage": 5,
+       "percent": 1.4998469543924091,
+       "episodes": 10,
+       "longest_ns": 0.91
+      },
+      {
+       "linkage": 6,
+       "percent": 0.6121824303642486,
+       "episodes": 9,
+       "longest_ns": 0.42
+      },
+      {
+       "linkage": 7,
+       "percent": 14.763799612284462,
+       "episodes": 14,
+       "longest_ns": 5.61
+      },
+      {
+       "linkage": 8,
+       "percent": 10.447913478216508,
+       "episodes": 21,
+       "longest_ns": 2.7800000000000002
+      },
+      {
+       "linkage": 9,
+       "percent": 1.3263952657892053,
+       "episodes": 16,
+       "longest_ns": 0.68
+      },
+      {
+       "linkage": 10,
+       "percent": 12.906846240179574,
+       "episodes": 12,
+       "longest_ns": 3.97
+      },
+      {
+       "linkage": 11,
+       "percent": 12.917049280685644,
+       "episodes": 16,
+       "longest_ns": 2.83
+      }
+     ]
+    },
+    {
+     "tag": "SC12_r4",
+     "anti": 5495,
+     "total": 107811,
+     "percent": 5.096882507350827,
+     "R2_nm2": 9.000390592462054,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 6.458524640342822,
+       "episodes": 11,
+       "longest_ns": 2.5500000000000003
+      },
+      {
+       "linkage": 2,
+       "percent": 2.0202020202020203,
+       "episodes": 8,
+       "longest_ns": 1.21
+      },
+      {
+       "linkage": 3,
+       "percent": 7.244158759310275,
+       "episodes": 6,
+       "longest_ns": 7.0200000000000005
+      },
+      {
+       "linkage": 4,
+       "percent": 9.1929394959698,
+       "episodes": 5,
+       "longest_ns": 8.2
+      },
+      {
+       "linkage": 5,
+       "percent": 1.2651770227527803,
+       "episodes": 9,
+       "longest_ns": 0.74
+      },
+      {
+       "linkage": 7,
+       "percent": 13.600652994592387,
+       "episodes": 9,
+       "longest_ns": 5.99
+      },
+      {
+       "linkage": 8,
+       "percent": 2.948678706254464,
+       "episodes": 7,
+       "longest_ns": 1.75
+      },
+      {
+       "linkage": 9,
+       "percent": 6.387103356800326,
+       "episodes": 9,
+       "longest_ns": 4.45
+      },
+      {
+       "linkage": 11,
+       "percent": 6.519742883379247,
+       "episodes": 19,
+       "longest_ns": 1.9100000000000001
+      }
+     ]
+    },
+    {
+     "tag": "SC12_r6",
+     "anti": 5635,
+     "total": 107811,
+     "percent": 5.226739386519,
+     "R2_nm2": 10.232658552300197,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 7.050300989694929,
+       "episodes": 12,
+       "longest_ns": 1.86
+      },
+      {
+       "linkage": 2,
+       "percent": 2.1018263442505867,
+       "episodes": 8,
+       "longest_ns": 1.82
+      },
+      {
+       "linkage": 3,
+       "percent": 3.2241607999183755,
+       "episodes": 8,
+       "longest_ns": 1.78
+      },
+      {
+       "linkage": 4,
+       "percent": 5.377002346699316,
+       "episodes": 9,
+       "longest_ns": 2.89
+      },
+      {
+       "linkage": 5,
+       "percent": 1.8161412100806038,
+       "episodes": 11,
+       "longest_ns": 0.59
+      },
+      {
+       "linkage": 6,
+       "percent": 10.152025303540455,
+       "episodes": 12,
+       "longest_ns": 5.48
+      },
+      {
+       "linkage": 7,
+       "percent": 9.34598510356086,
+       "episodes": 14,
+       "longest_ns": 3.06
+      },
+      {
+       "linkage": 8,
+       "percent": 7.335986123864911,
+       "episodes": 11,
+       "longest_ns": 2.17
+      },
+      {
+       "linkage": 9,
+       "percent": 2.5201510049994895,
+       "episodes": 6,
+       "longest_ns": 1.41
+      },
+      {
+       "linkage": 10,
+       "percent": 6.825834098561372,
+       "episodes": 11,
+       "longest_ns": 3.35
+      },
+      {
+       "linkage": 11,
+       "percent": 1.7447199265381086,
+       "episodes": 11,
+       "longest_ns": 0.55
+      }
+     ]
+    },
+    {
+     "tag": "SC12_r8",
+     "anti": 6283,
+     "total": 107811,
+     "percent": 5.8277912272402626,
+     "R2_nm2": 9.177554604409043,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 8.805223956739109,
+       "episodes": 22,
+       "longest_ns": 3.17
+      },
+      {
+       "linkage": 2,
+       "percent": 3.6424854606672787,
+       "episodes": 5,
+       "longest_ns": 3.5300000000000002
+      },
+      {
+       "linkage": 3,
+       "percent": 10.121416182022243,
+       "episodes": 7,
+       "longest_ns": 6.49
+      },
+      {
+       "linkage": 4,
+       "percent": 4.907662483420059,
+       "episodes": 15,
+       "longest_ns": 2.2
+      },
+      {
+       "linkage": 5,
+       "percent": 14.549535761656973,
+       "episodes": 10,
+       "longest_ns": 8.14
+      },
+      {
+       "linkage": 6,
+       "percent": 3.101724313845526,
+       "episodes": 12,
+       "longest_ns": 2.75
+      },
+      {
+       "linkage": 7,
+       "percent": 4.203652688501173,
+       "episodes": 11,
+       "longest_ns": 2.72
+      },
+      {
+       "linkage": 8,
+       "percent": 5.009692888480767,
+       "episodes": 11,
+       "longest_ns": 3.5100000000000002
+      },
+      {
+       "linkage": 9,
+       "percent": 5.223956739108254,
+       "episodes": 7,
+       "longest_ns": 3.11
+      },
+      {
+       "linkage": 10,
+       "percent": 3.7139067442097744,
+       "episodes": 14,
+       "longest_ns": 1.82
+      },
+      {
+       "linkage": 11,
+       "percent": 0.8264462809917356,
+       "episodes": 14,
+       "longest_ns": 0.28
+      }
+     ]
+    },
+    {
+     "tag": "SC12_r10",
+     "anti": 7111,
+     "total": 107811,
+     "percent": 6.595801912606321,
+     "R2_nm2": 9.907269207325383,
+     "linkages_above_half_percent": [
+      {
+       "linkage": 1,
+       "percent": 9.386797265585145,
+       "episodes": 18,
+       "longest_ns": 3.44
+      },
+      {
+       "linkage": 2,
+       "percent": 6.93806754412815,
+       "episodes": 15,
+       "longest_ns": 2.42
+      },
+      {
+       "linkage": 3,
+       "percent": 6.785021936537087,
+       "episodes": 15,
+       "longest_ns": 2.59
+      },
+      {
+       "linkage": 4,
+       "percent": 10.437710437710438,
+       "episodes": 10,
+       "longest_ns": 3.77
+      },
+      {
+       "linkage": 5,
+       "percent": 8.641975308641975,
+       "episodes": 6,
+       "longest_ns": 8.41
+      },
+      {
+       "linkage": 6,
+       "percent": 4.122028364452607,
+       "episodes": 9,
+       "longest_ns": 3.72
+      },
+      {
+       "linkage": 7,
+       "percent": 5.234159779614325,
+       "episodes": 9,
+       "longest_ns": 3.38
+      },
+      {
+       "linkage": 8,
+       "percent": 1.3161922252831344,
+       "episodes": 8,
+       "longest_ns": 0.65
+      },
+      {
+       "linkage": 9,
+       "percent": 3.968982756861545,
+       "episodes": 12,
+       "longest_ns": 2.54
+      },
+      {
+       "linkage": 10,
+       "percent": 9.82552800734619,
+       "episodes": 15,
+       "longest_ns": 3.0100000000000002
+      },
+      {
+       "linkage": 11,
+       "percent": 5.897357412508928,
+       "episodes": 13,
+       "longest_ns": 2.2600000000000002
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "model_from_6_units": {
+  "GLYCAM06_5": {
+   "Cn": 3.2270722256189988,
+   "sd_leave_one_out": 0.020843500066062396,
+   "l2_nm2": 0.21789199532588044,
+   "R2_nm2": 3.515766031504267
+  },
+  "GLYCAM06_11": {
+   "Cn": 6.118724216845291,
+   "sd_leave_one_out": 0.08566662161416871,
+   "l2_nm2": 0.21789199532588044,
+   "R2_nm2": 14.665431313029263
+  },
+  "CHARMM36_5": {
+   "Cn": 2.8353102440288867,
+   "sd_leave_one_out": 0.0028673633847453787,
+   "l2_nm2": 0.2042610637444863,
+   "R2_nm2": 2.895717432454897
+  },
+  "CHARMM36_11": {
+   "Cn": 4.218150033074368,
+   "sd_leave_one_out": 0.04871151354006879,
+   "l2_nm2": 0.2042610637444863,
+   "R2_nm2": 9.477641940685714
+  }
+ }
+}

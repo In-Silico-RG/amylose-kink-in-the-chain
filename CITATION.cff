@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the article below."
+title: "A Kink in the Chain: data, inputs and code"
+type: dataset
+authors:
+  - family-names: "Ruiz-Rocha"
+    given-names: "Yurimar"
+    affiliation: "Universidad de Sucre"
+  - family-names: "Combariza"
+    given-names: "Aldo F."
+    affiliation: "Universidad de Sucre"
+    orcid: "https://orcid.org/0000-0003-4837-7723"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/In-Silico-RG/amylose-kink-in-the-chain"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Ruiz-Rocha"
+      given-names: "Yurimar"
+    - family-names: "Combariza"
+      given-names: "Aldo F."
+      orcid: "https://orcid.org/0000-0003-4837-7723"
+  title: "A Kink in the Chain: The Anti-ψ Conformation of the α(1→4) Glycosidic Linkage and the Unperturbed Dimensions of Amylose in Two Carbohydrate Force Fields"
+  journal: "The Journal of Physical Chemistry B"
+  status: submitted
+  year: 2026

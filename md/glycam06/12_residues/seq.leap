@@ -1,0 +1,4 @@
+source leaprc.GLYCAM_06j-1
+m = sequence { ROH 4GA 4GA 4GA 4GA 4GA 4GA 4GA 4GA 4GA 4GA 4GA 0GA }
+savepdb m sc12_default.pdb
+quit
