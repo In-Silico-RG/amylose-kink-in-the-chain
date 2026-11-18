@@ -18,8 +18,8 @@ GFN2-xTB conformational map of methyl β-maltoside.
 |---|---|
 | [`data/linkages/`](data/linkages) | for each of the 30 simulations, the glycosidic torsions φ and ψ, the rotation between consecutive residues and the virtual bond, for every linkage of every stored frame |
 | [`md/`](md) | everything needed to run the simulations: topologies, starting structures, run parameters, job scripts, and how the GLYCAM06 systems were built |
-| `model/` | the Gaussian-mixture model of the linkage statistics: explanation, code and an example (being added; the model as used for the tables is in `analysis/chain_model.py`) |
-| [`analysis/`](analysis) | the scripts behind the tables of the paper, with the result files they write |
+| [`model/`](model) | the Gaussian-mixture model of the linkage statistics: explanation, code and an example |
+| [`analysis/`](analysis) | one script per table of the paper, with the result files they write |
 | [`xtb/`](xtb) | the GFN2-xTB scan of methyl β-maltoside: starting structure, inputs, every optimised structure, the validation and the final map |
 
 Each folder has its own README.

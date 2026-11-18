@@ -1,0 +1,25 @@
+{
+ "p_CHARMM36": 0.06405097810056488,
+ "p_GLYCAM06": 0.008213138424341362,
+ "corners": {
+  "conformations_CHARMM36_kinks_CHARMM36": 8.972960787131564,
+  "conformations_CHARMM36_kinks_GLYCAM06": 14.371371716647653,
+  "conformations_GLYCAM06_kinks_CHARMM36": 11.430892294572017,
+  "conformations_GLYCAM06_kinks_GLYCAM06": 27.248224283003754,
+  "conformations_CHARMM36_kinks_none": 16.018258332780146,
+  "conformations_GLYCAM06_kinks_none": 34.51595654279189
+ },
+ "ln_total": 1.1107726568488214,
+ "population_share": {
+  "conformations_of_CHARMM36_held": 0.4240493780518298,
+  "conformations_of_GLYCAM06_held": 0.7820401491942978,
+  "average": 0.6030447636230638
+ },
+ "syn_share": {
+  "population_of_CHARMM36_held": 0.2179598508057023,
+  "population_of_GLYCAM06_held": 0.5759506219481701,
+  "average": 0.3969552363769362,
+  "population_zero_held": 0.6911337828131732
+ },
+ "interaction_share": 0.35799077114246786
+}
